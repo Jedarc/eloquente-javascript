@@ -2,7 +2,7 @@
 > "O problema com as linguagens orientadas a objeto é que elas têm tudo
 implícito no ambiente que elas carregam consigo. Você queria banana, mas o que
 você teve foi um gorila segurando a banana e toda a floresta."
-> `Joe Armstrong, entrevistado em Coders at Work``
+> `Joe Armstrong, entrevistado em Coders at Work`
 
 Quando um programador diz "objeto", isso é um termo carregado. Na minha
 profissão, objetos são a maneira de viver, o sujeito das guerras santas, e um
@@ -85,7 +85,7 @@ fatRabbit.speak("I could sure use a carrot right now.");
 //   right now.'
 ```
 
-O código acima usa a palavra chava `this` para dar a saída do tipo de coelho que está falando. Lembrando que ambos os métodos `apply` e `bind` podem usar o
+O código acima usa a palavra-chave `this` para dar a saída do tipo de coelho que está falando. Lembrando que ambos os métodos `apply` e `bind` podem usar o
 primeiro argumento para simular chamadas de métodos. Esse primeiro argumento, é
 na verdade, usado para passar um valor ao `this`.
 
